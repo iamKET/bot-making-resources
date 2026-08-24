@@ -1,4 +1,25 @@
 <!-- omit from toc -->
+## Ket Yapping
+
+<sub>⚠️ CW: incoming pearl-clutching, moral-high-ground nonsense, and me acting like I'm somehow better than everyone else. And probably useless-ass advice. Skip ahead if you're not in the mood for a sermon.</sub>
+
+So you're here, wondering how to make your bot go trending, reach your audience, and maybe hit the front page one day. Here's my advice on how to do it **ethically**.
+
+Of course, you can be that person cranking out the nth NTR slop — and by slop, I mean copy-paste garbage with not an ounce of storyline or logic behind the bot's personality. Like, yeah, he cheated on you, but *why* did he cheat on you? No reason, he just cheated on you. WHAT THE FUCK ARE YOU WRITING? Oh yeah, and the bot will still rack up 20k–100k+ messages, maybe more, because there's drama — even cheap drama.
+
+I have no hate for these bots, though. Go for it if that's what you like to make. Just don't do it purely for the numbers.
+
+I only started making bots quite late (end of October 2025), as a small creator with no big-name friends to promote me. I used to have bots with 69 messages, 32 messages — 20 of which were me talking to myself.
+
+I'd be lying if I said I don't care about numbers. I do. I understand that feeling when you spend hours on a bot and no one even gives it a try. I made bots I was confident would do well, and they ended up with less than 1k messages. I get it. I've been there.
+
+Don't compare yourself to older creators — they were on the site back when there was way less competition and way fewer people. 
+
+What worked two years ago will not work now.
+
+Also, it's normal to care about numbers, just don't let it become **everything** you care about. At the end of the day, this is just a random porn site that'll get you side-eyes from most people.
+
+<!-- omit from toc -->
 ## Table of Contents
 - [Bot images](#bot-images)
   - [Example of my extra gens for adoption on Discord](#example-of-my-extra-gens-for-adoption-on-discord)
@@ -34,7 +55,7 @@ Think of it this way: you have about 20 words to convince someone to use your bo
 A good hook should tell the reader: 
 - Who is the character?
 - Who is user?
-- what their relationship is, and what kind of vibe to expect from the roleplay. Tension, drama, ...
+- What their relationship is, and what kind of vibe to expect from the roleplay. Tension, drama, ...
 - If I have space, I'll sometimes add a quote that captures the character's personality or the tension.
 
 For example, with my Felix bot: ***"He is your roommate with a big cock"*** ← eh, not great. ***"Your himbo roommate failed his 10th hookup of the month. The girl ran the second she saw his 12-inch monster cock."*** ← Better. It tells you: you're his roommate, he's a himbo, his cock is so big it scares people away, and he has no idea why — because he's a himbo, lmao. 
@@ -64,11 +85,14 @@ I get it — it's frustrating to pour hours into a bot and have it flop. But I d
 Never make what you think will go viral, or what you think people will like. That's a big mistake — I made it myself. My bots flopped, I didn't even like them, and I felt like shit afterward. Just don't. It's a bad habit and a bad mindset, and I see a lot of people fall into it. I fell into it too, and it's so hard to climb back out. It's not worth it. 
 
 Always make what you like. Don't care what anyone else thinks, LOL. Sometimes I think my stuff is too dead dove or too goon — and you know what, it still did well. So don't be afraid. Make whatever you want. You don't have to stick to certain tropes — explore them, break them. That way, even if the bot doesn't take off, you still like it, and that's what matters.  
+
 Janitor isn't new-creator friendly. You might feel like without support from big creators, you'll never make it. That's half true — it's not the most welcoming platform for newcomers — but it's not impossible either. Make what you want, and your audience will come eventually. 
 
 On promoting your bots: honestly, it's kinda helpful but not really. I used to spend 30 minutes advertising on 20–30 servers at a time, back when I was also chasing what I thought would go viral. At some point I said fuck it, this isn't worth my time — I'd rather put that energy into making something I actually like. And well, the rest is history. 
 
-Oh, and — creators owe users nothing, and users owe creators nothing. This is a hobby. Keep it that way. 
+Oh, and — creators owe users nothing, and users owe creators nothing. This is a hobby. Keep it that way. Don't stress over it. 
+
+For more tips, I also recommend reading Nicholas's guide (I will glaze this man, my goat), he also has a section talking about it too. You can find the link in [Main home page](/README.md).
 
 
 

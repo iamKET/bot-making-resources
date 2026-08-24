@@ -85,7 +85,9 @@
 ```
 ---
 ### Personality template with notes
-```
+<table>
+<tr><td>
+
 > LORE & SETTINGS
 
 A brief overview of the world setting and any context or lore that's important to the plot. Keep it around 200 words max. If it runs longer than that, consider trimming it down or moving the extra details into Lorebook.
@@ -114,13 +116,14 @@ A brief overview of the world setting and any context or lore that's important t
 - You can add more notable features here such as scars, beauty marks, piercings, or scent. Keep everything short and to the point — strictly appearance only, no need to elaborate on the 'vibe' unless it feels necessary for the character's personality.
 
 > BACKGROUND
+
 Again, keep it short and sweet — key moments only. Ask yourself these questions when writing the background:
 - Does this affect the bot’s personality?
 - Does this affect the bot’s relationship with user?
 - Does this affect the bot’s relationship with any important NPCs?
 
-
 > SIDE NPCs
+
 Important NPCs only — age, gender, and who they are to the bot. Keep each bullet point to about 1–3 sentences max, unless it's a particularly important NPC, in which case you can go longer. If you want to add a lot of detail or a lot of NPCs, consider using Lorebook. 
 
 
@@ -172,9 +175,13 @@ Optional. Pick 1–5 items that are meaningful to them — where they live, thei
 
 - Style: Overall speech style. maybe some speech quirks too
 - A few example sentences — their beliefs, how they sound when angry or sad, their insult style, slang, how they talk to the user, how they talk to NPCs, etc. 
-```
----
+</td></tr>
+</table>
+
 ### Author General Notes
+
+- Feel free to use this template, no credit needed, it's just simply organization
+
 - I normally keep the bot's personality around 2k–3k tokens. The upper ceiling is around 3.5k — I'd avoid going over 4k. Cut repetitive information, rambling, and overly elaborate details. More tokens doesn't mean better quality. Honestly, the AI will skip over a lot of it — yes, all the information gets sent, but not all of it actually gets applied during roleplay. You know how you give an AI a long task and it only does half of it, then goes off and does something else entirely? It's pretty much the same thing here. Less is more — keep the key points.
 
 - I know people like adding likes and dislikes. It's helpful sometimes, but with this format it's often already implied by the personality anyway. Sometimes I add it, sometimes I don't.
