@@ -1,4 +1,4 @@
-_Last updated: <!--LAST_UPDATED-->2026-08-24 08:19 UTC<!--/LAST_UPDATED-->_
+_Last updated: <!--LAST_UPDATED-->2026-08-24 08:58 UTC<!--/LAST_UPDATED-->_
 
 # Bot Making Resources
 
