@@ -1,4 +1,4 @@
-_Last updated: <!--LAST_UPDATED-->2026-08-23 01:52 UTC<!--/LAST_UPDATED-->_
+_Last updated: <!--LAST_UPDATED-->2026-08-23 06:20 UTC<!--/LAST_UPDATED-->_
 
 # Bot Making Resources
 
@@ -90,7 +90,7 @@ Note: The template you use doesn't actually matter — there's no "correct" form
 - [Absolute's Trash Template](https://rentry.co/absolutetrashs-bot-guide#character-template-for-the-personality-section)
 - [Nannikka's Template](https://drive.google.com/drive/folders/1XyrJWOoJqQlscFsnoJpqtG4_vdi7dPov)
 
-### Bot Bio's template
+### Bot Bio's template (for Janitor Only)
 fancy decoration for your bot's bio
 - [Nannikka's bio template](https://drive.google.com/drive/folders/18K350Kjx8oFNdlFRvxjrEe-QbcB1BL9o)
 - [lonerlove's bio template](https://janitorai.com/characters/cea2fa89-26da-4d2f-aeb6-ab3bf4e151aa_character-free-bio-templates)
@@ -98,6 +98,6 @@ fancy decoration for your bot's bio
 - [Puppy's bio builder](https://puppywastaken.github.io/JAI-Bio-Builder/)
 - [deer_'s janitor AI class names](https://janitorai.com/characters/a846603a-6cf5-42de-852b-6a5c21006de5_character-new-janitor-ai-class-names-description-bio-boxes-buttons)
 
-### Lorebooks
+### Lorebooks (for Janitor Only)
 
 - [IO's Lorebook Guide](https://www.reddit.com/r/JanitorAI_Official/comments/1ojfpmw/ios_basic_lorebook_guide_beginner_friendly_i_hope/)
