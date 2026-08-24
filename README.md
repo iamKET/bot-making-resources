@@ -87,7 +87,7 @@ There are many more guides also linked within these.
 Note: The template you use doesn't actually matter — there's no "correct" format the AI responds better to. It's simply about finding whatever structure works best for how ***you*** think and write.
 
 - [IO's template](https://iotemplate.uwu.ai/)
-- [Absolute's Trash Template](https://rentry.co/absolutetrashs-bot-guide#character-template-for-the-personality-section)
+- [AbsoluteTrash's Template](https://rentry.co/absolutetrashs-bot-guide#character-template-for-the-personality-section)
 - [Nannikka's Template](https://drive.google.com/drive/folders/1XyrJWOoJqQlscFsnoJpqtG4_vdi7dPov)
 
 ### Bot Bio's template (for Janitor Only)
