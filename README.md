@@ -3,6 +3,9 @@ _Last updated: <!--LAST_UPDATED-->2026-08-24 08:19 UTC<!--/LAST_UPDATED-->_
 # Bot Making Resources
 
 A massive dump of bot-making resources, including guides from other creators and my own guide. Mainly for JanitorAI and SillyTavern, but the process should translate to most AI chat sites.
+
+Thank you for all the creators who made this resources dump possible. 
+
 <!-- omit from toc -->
 ## Before You Dive In
 
@@ -36,14 +39,6 @@ Disclaimer: I'm not an expert at this. This is just my personal workflow, based 
 
 Note: click the arrow to see what each guide covers before actually clicking into it!
 
-<details>
-<summary><a href="https://rentry.co/nicholascsbigassbotmakingguide">NicholasCS's Guide</a></summary>
-
-**Covers:** A long, dense breakdown of botmaking across 7 sections — common creator mistakes, core knowledge every creator should know, a full component-by-component breakdown of a bot, how to build bots for specific niches, advanced techniques, misc tips, and a bonus section on growing ~~famous~~ as a creator.
-
-**Best for:** "This guide is for anyone with botmaking experience, whether you are a hardened veteran or a relative beginner. While this information is tailored towards JanitorAI users, a vast majority of this info can apply to making bots for other platforms." - Quote from Nicholas directly in the guide
-
-</details>
 
 <details>
 <summary><a href="https://jaitutorial.uwu.ai/">IO's Guide</a></summary>
@@ -51,6 +46,22 @@ Note: click the arrow to see what each guide covers before actually clicking int
 **Covers:** A step-by-step, first-bot tutorial for Janitor.Ai, walking through both basic and more advanced botmaking techniques.
 
 **Best for:** Total beginners who want a guided, structured walkthrough rather than a dense reference — the core message is that botmaking doesn't have to be complicated; everything past the basics is just detail.
+</details>
+
+<details>
+<summary><a href="https://ancientaccess.weebly.com/blog">Building Coherent Character Cards</a></summary>
+
+**Covers:** A philosophy-first guide to card writing — the "Background → Interiority → Exteriority" causal chain, how word choice/phrasing itself steers behavior, writing card prose in the character's voice, advanced techniques like negative space, physical emotion tells, mystery engines, and state-tracking for characters with powers or transformations.
+
+**Best for:** Creators who already have the basics down and want to level up *why* their cards feel flat or generic — this isn't a fill-in-the-blank template, it's a craft guide on the reasoning behind good writing choices, with a template included as a starting skeleton.
+</details>
+
+<details>
+<summary><a href="https://rentry.co/nicholascsbigassbotmakingguide">NicholasCS's Guide</a></summary>
+
+**Covers:** A long, dense breakdown of botmaking across 7 sections — common creator mistakes, core knowledge every creator should know, a full component-by-component breakdown of a bot, how to build bots for specific niches, advanced techniques, misc tips, and a bonus section on growing ~~famous~~ as a creator.
+
+**Best for:** "This guide is for anyone with botmaking experience, whether you are a hardened veteran or a relative beginner. While this information is tailored towards JanitorAI users, a vast majority of this info can apply to making bots for other platforms." - Quote from Nicholas directly in the guide
 
 </details>
 
@@ -89,8 +100,11 @@ Note: The template you use doesn't actually matter — there's no "correct" form
 - [IO's template](https://iotemplate.uwu.ai/)
 - [AbsoluteTrash's Template](https://rentry.co/absolutetrashs-bot-guide#character-template-for-the-personality-section)
 - [Nannikka's Template](https://drive.google.com/drive/folders/1XyrJWOoJqQlscFsnoJpqtG4_vdi7dPov)
+- [Memi's Template](https://janitorai.com/characters/53310822-01cf-4808-af57-4d6eaeef66c3)
 
-### Bot Bio's template (for Janitor Only)
+### Bot Bio's template 
+
+(for Janitor Only)
 fancy decoration for your bot's bio
 - [Nannikka's bio template](https://drive.google.com/drive/folders/18K350Kjx8oFNdlFRvxjrEe-QbcB1BL9o)
 - [lonerlove's bio template](https://janitorai.com/characters/cea2fa89-26da-4d2f-aeb6-ab3bf4e151aa_character-free-bio-templates)
@@ -98,6 +112,7 @@ fancy decoration for your bot's bio
 - [Puppy's bio builder](https://puppywastaken.github.io/JAI-Bio-Builder/)
 - [deer_'s janitor AI class names](https://janitorai.com/characters/a846603a-6cf5-42de-852b-6a5c21006de5_character-new-janitor-ai-class-names-description-bio-boxes-buttons)
 
-### Lorebooks (for Janitor Only)
+### Lorebooks 
 
+(for Janitor Only)
 - [IO's Lorebook Guide](https://www.reddit.com/r/JanitorAI_Official/comments/1ojfpmw/ios_basic_lorebook_guide_beginner_friendly_i_hope/)
