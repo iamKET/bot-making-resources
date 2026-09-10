@@ -37,7 +37,7 @@ Disclaimer: I'm not an expert at this. This is just my personal workflow, based 
 
 ### Bot Making Guides
 
-Note: click the arrow to see what each guide covers before actually clicking into it!
+Note: click the arrow to see what each guide covers before actually clicking into the link!
 
 
 <details>
@@ -46,6 +46,14 @@ Note: click the arrow to see what each guide covers before actually clicking int
 **Covers:** A step-by-step, first-bot tutorial for Janitor.Ai, walking through both basic and more advanced botmaking techniques.
 
 **Best for:** Total beginners who want a guided, structured walkthrough rather than a dense reference — the core message is that botmaking doesn't have to be complicated; everything past the basics is just detail.
+</details>
+
+<details>
+<summary><a href="https://janitorai.com/characters/e9402ecb-6eae-4c9a-b426-b3fde3a38c05">Nanni's Guide</a></summary>
+
+**Covers:** A compacted starter kit, including how to write your intro, drafting your bot, niji images prompt, extra image for you to use, growing as a creator, ...
+
+**Best for:** A starter who would like a compacted guide and everything in one place, and by everything i mean everything you can possibly need to get started.
 </details>
 
 <details>
